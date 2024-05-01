@@ -8,13 +8,5 @@
 			"servertype":"",
 			"maptype":"KOVO"
 		}
-		{
-			"name":"BUKO-1",
-			"motd":"",
-			"ip":"",
-			"port":25565,
-			"servertype":"",
-			"maptype":"BUKO"
-		}
 	]
 }
