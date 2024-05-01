@@ -2,11 +2,19 @@
 	"official":[
 		{
 			"name":"KOVO-1",
-			"motd":"Community",
+			"motd":"",
 			"ip":"31.214.141.240",
 			"port":25565,
 			"servertype":"",
-			"maptype":"goofy"
+			"maptype":"KOVO"
+		}
+		{
+			"name":"BUKO-1",
+			"motd":"",
+			"ip":"",
+			"port":25565,
+			"servertype":"",
+			"maptype":"BUKO"
 		}
 	]
 }
