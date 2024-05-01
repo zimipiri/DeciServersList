@@ -2,10 +2,10 @@
 	"official":[
 		{
 			"name":"KOVO-1",
-			"motd":"",
+			"motd":"Kovolska Official Map",
 			"ip":"31.214.141.240",
 			"port":25565,
-			"servertype":"",
+			"servertype":"Official",
 			"maptype":"KOVO"
 		}
 	]
